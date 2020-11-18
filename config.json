@@ -1,0 +1,29 @@
+{
+  "TargetOwner": "",
+  "TargetRepo": "",
+  "TargetGH": false,
+  "TargetAPI": "https://evermeet.cx/ffmpeg/info/ffmpeg/release",
+  "TargetDLink": "https://evermeet.cx/ffmpeg/ffmpeg-4.3.1.7z",
+  "ArchiverOwner": "One-Studio",
+  "ArchiverRepo": "FFmpeg-Mac",
+  "ArchiverGH": true,
+  "ArchiverAPI": "",
+  "ArchiverVersion": "v1.2.1",
+  "Version": "",
+  "VersionList": [],
+  "CheckTime": "",
+  "Format": 1,
+  "CompRatio": 2,
+  "DistPath": "dist",
+  "Filter": [
+    ".zip",
+    ".exe"
+  ],
+  "DeleteFilter": [],
+  "RenameFilter": [
+	  {
+		  "Index": "ffmpeg",
+		  "Name": "ffmpeg-mac.7z"
+	  }
+  ]
+}
