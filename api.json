@@ -1,9 +1,13 @@
 {
-  "Version": "",
-  "VersionList": [],
+  "Version": "4.3.1",
+  "VersionList": [
+    "4.3.1"
+  ],
   "ReleaseTime": "",
-  "CheckTime": "",
-  "DownloadLink": [],
+  "CheckTime": "2020-11-18T06:24Z",
+  "DownloadLink": [
+    "https://cdn.jsdelivr.net/gh/One-Studio/FFmpeg-Mac@master/dist/ffmpeg-mac.7z"
+  ],
   "Format": 1,
   "ReleaseNote": ""
 }
